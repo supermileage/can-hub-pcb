@@ -1,0 +1,62 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7-1)-1*
+G04 #@! TF.CreationDate,2022-12-01T13:28:40-08:00*
+G04 #@! TF.ProjectId,can-hub-pcb,63616e2d-6875-4622-9d70-63622e6b6963,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L2,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.7-1)-1) date 2022-12-01 13:28:40*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMRotRect*
+0 Rectangle, with rotation*
+0 The origin of the aperture is its center*
+0 $1 length*
+0 $2 width*
+0 $3 Rotation angle, in degrees counterclockwise*
+0 Add horizontal line*
+21,1,$1,$2,0,0,$3*%
+G04 Aperture macros list end*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10R,1.700000X1.700000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11O,1.700000X1.700000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12R,1.755000X1.755000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD13C,1.755000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD14RotRect,1.755000X1.755000X60.000000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD15RotRect,1.755000X1.755000X300.000000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X157500000Y-100775000D03*
+D11*
+X157500000Y-98235000D03*
+D12*
+X154960000Y-93006000D03*
+D13*
+X157500000Y-93006000D03*
+X160040000Y-93006000D03*
+D14*
+X165417000Y-99392000D03*
+D13*
+X164147000Y-101591705D03*
+X162877000Y-103791409D03*
+D15*
+X152123000Y-103791000D03*
+D13*
+X150853000Y-101591295D03*
+X149583000Y-99391591D03*
+M02*

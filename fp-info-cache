@@ -1,4 +1,4 @@
-20392840892166792
+20394509278523129
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -17646,6 +17646,13 @@ Connector
 0
 8
 8
+Connector_Molex
+Molex-70551-0001-0-0-MFG
+
+
+0
+2
+2
 Connector_Molex
 Molex_CLIK-Mate_502382-0270_1x02-1MP_P1.25mm_Vertical
 Molex CLIK-Mate series connector, 502382-0270 (http://www.molex.com/pdm_docs/sd/5023820270_sd.pdf), generated with kicad-footprint-generator
